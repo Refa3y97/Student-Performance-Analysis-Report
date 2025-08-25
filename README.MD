@@ -37,16 +37,17 @@ The dashboard provides insights into grade distribution, subject-wise performanc
 ## Dashboard Screenshots
 
 ### Student Details
-![Student Details](screenshots/Students (1).png)
+![Student Details](students_details.png)
 
 ### Total Score Analysis
-![Total Score Analysis](screenshots/Students (3).png)
+![Total Score Analysis](total_score_analysis.png)
 
 ### Performance Across Cities
-![Performance Across Cities](screenshots/Students (4).png)
+![Performance Across Cities](performance_cities.png)
 
 ### Overall View on Student Performance
-![Overall Performance](screenshots/Students (2).png)
+![Overall Performance](overall_performance.png)
+
 
 
 
