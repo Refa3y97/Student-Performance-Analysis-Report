@@ -9,7 +9,7 @@ The dashboard provides insights into grade distribution, subject-wise performanc
 - **Overall Performance** → Average grades across all students.
 - **Subject Breakdown** → Compare performance across different subjects.
 - **Top & Low Performers** → Identify students excelling or struggling.
-- **Grade Distribution** → Visualize grade ranges (A, B, C, etc.).
+- **Grade Distribution** → Visualize grade ranges.
 - **Trend Analysis** → Track progress across exams or academic terms.
 
 ---
@@ -47,6 +47,7 @@ The dashboard provides insights into grade distribution, subject-wise performanc
 
 ### Overall View on Student Performance
 ![Overall Performance](overall_performance.png)
+
 
 
 
