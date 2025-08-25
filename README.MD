@@ -1,7 +1,7 @@
 # Student Performance Analysis
 
-This Power BI project analyzes student performance and academic results.  
-The dashboard provides insights into grade distribution, subject-wise performance, and overall academic trends.
+This Power BI dashboard analyzes student performance and academic results, offering insights into grade distributions, subject breakdowns, and performance trends.
+
 
 ---
 
@@ -47,6 +47,7 @@ The dashboard provides insights into grade distribution, subject-wise performanc
 
 ### Overall View on Student Performance
 ![Overall Performance](overall_performance.png)
+
 
 
 
